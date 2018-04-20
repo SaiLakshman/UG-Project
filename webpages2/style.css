@@ -1,0 +1,419 @@
+TABLE.menu {
+	BORDER-RIGHT: black 1px solid; 
+	BORDER-TOP: black 1px solid; 
+	VISIBILITY: visible; 
+	BORDER-LEFT: black 1px solid; 
+	BORDER-BOTTOM: black 1px solid; 
+}
+#mainmenu {
+	POSITION: static
+}
+TABLE.menu TD {
+	BORDER-TOP-WIDTH: 1px; 
+	PADDING-RIGHT: 8px; 
+	PADDING-LEFT: 8px; 
+	FONT-WEIGHT: NORMAL; 
+	BORDER-LEFT-WIDTH: 1px; 
+	FONT-SIZE: 14px; 
+	BORDER-BOTTOM-WIDTH: 1px; 
+	PADDING-BOTTOM: 2px; 
+	COLOR: #800040; 
+	PADDING-TOP: 0px; 
+	FONT-FAMILY: verdana, MS Sans Serif,Arial; 
+	WHITE-SPACE: nowrap; 
+	BACKGROUND-COLOR: #F2F5Fa; 
+	BORDER-RIGHT-WIDTH: 1px;
+}
+th{
+	font-family:verdana, MS Sans Serif,Arial; 
+	font-size:12px; 
+	color:black; 	
+	background:#dfdfdf; 
+	font-weight:bold;
+}
+
+th.menu{
+	font-family:verdana, MS Sans Serif,Arial; 
+	font-size:11px; 
+	color:white;
+	background:#423CAD; 
+	font-weight:bold;
+}
+.title{
+	font-family:verdana, MS Sans Serif,Arial; 
+	font-size:12px; 
+	color:#000000; 
+	font-weight:bold;
+	background:white url(../imgs/bar.gif) no-repeat;
+}
+
+.title1{
+	font-family:verdana, "MS Sans Serif", Arial; 
+	font-size:12px; 
+	color:#000000; 
+	font-weight:bold;
+	}
+
+.title2{
+	font-family:verdana, MS Sans Serif,Arial; 
+	font-size:12px; 
+	color:#000000; 
+	font-weight:bold;
+	background:white; 
+	}	
+	
+.title3{
+	font-family:verdana, MS Sans Serif,Arial; 
+	font-size:13px; 
+	color:#0000aa; 
+	font-weight:bold;
+	}	
+
+.title4{
+	font-family:verdana, MS Sans Serif,Arial; 
+	font-size:12px; 
+	color:#000000; 
+	font-weight:bold;
+	}
+
+.head{
+	font-family:verdana, MS Sans Serif,Arial; 
+	font-size:10px; 
+	color:#000099; 
+	font-weight:bold;}
+
+.exception1{
+background:#FFFFFF;
+color:#0000FF
+font-family:verdana, MS Sans Serif,Arial; 
+font-size:20px; 
+}
+
+.errorcode{
+background:#FFFFFF;
+color:#FF0000
+font-family:verdana, MS Sans Serif,Arial; 
+font-size:20px; 
+}
+
+.errormsgs{
+background:#FFFFFF;
+color:#0000FF
+font-family:verdana, MS Sans Serif,Arial; 
+font-size:20px; 
+}
+
+.sai1{
+background:#F2F5Fa;
+font-family:verdana, MS Sans Serif,Arial; 
+font-size:20px;
+text-align: center; 
+}
+.str { color: #060; }
+  .kwd { color: #006; font-weight: bold; }
+  .com { color: #600; font-style: italic; }
+  .typ { color: #404; font-weight: bold; }
+  .lit { color: #044; }
+.sai2{background:#FDFBFB;}
+.sai3{background:#ffffff;}
+.sai4{background:#FCFCE5;}
+.sai5{background:#999999;}
+.sai6{background:#FCFCE5;
+      font-size: 20px;}
+
+.sai1a{background:#0066FF;} 
+
+.sai1b{background:#F2F0F5;} 
+.sai11{background:#9AE5FF;} 
+.sai12{background:#CED9FD;} 
+.sai13{background:#EFE7FF;} 
+.sai14{background:#A0A0E6;} 
+.bkgnd{background:#F2F5Fa;}
+.thback{background:#dfdfdf;}
+.tableHead1
+{
+   COLOR: #FFFFCC; FONT-FAMILY: Helvetica; FONT-SIZE: 3px; FONT-WEIGHT: bold; 
+   TEXT-DECORATION: none; BACKGROUND-COLOR :#000099;
+}
+
+.label{
+	font-family:verdana, MS Sans Serif,Arial; 
+	font-size:15px; 
+	color:#black;}
+
+.labelred{
+	font-family:verdana, MS Sans Serif,Arial; 
+	font-size:20px; 
+	color:#060;}
+
+.textarealabel{
+	font-family:verdana, MS Sans Serif,Arial; 
+	font-size:10px; 
+	color:#000000;}
+
+.bgc{
+	font-family:verdana, MS Sans Serif,Arial; 
+	font-size:10px; 
+	color:#FFFFFF;
+	background:#2E2EBC;
+	font-weight:bold}
+
+span{
+	font-family:verdana, MS Sans Serif; 
+	font-size:11px;  
+	color:#000000; 
+	font-weight:normal;}
+
+span.red{ 
+	color:#FFFFFF;
+    font-family:verdana, MS Sans Serif; 
+	font-weight:Bold;
+	font-size:10px;confectionaries
+     
+          <option value= "3">Toiletries
+     
+          <option value= "4">HouseKeeping
+     
+
+	}
+
+span.red1{
+	font-family:verdana, MS Sans Serif,Arial; 
+	font-size:10px; 
+	color:#aa0000;
+	font-weight:bold;
+	}	
+
+span.blue{
+	color:#000090;}	
+span.blue1{
+	font-family:verdana, MS Sans Serif,Arial; 
+	font-size:10px; 
+	color:#000090;
+	}		
+
+input,textarea{
+	font-family:verdana, MS Sans Serif,Arial; 
+	font-size:11px; 
+	color:black;}
+	
+input.int{
+	font-family:verdana, MS Sans Serif,Arial; 
+	font-size:11px; 
+	color:black;
+	width:130;}	
+	
+input.int1{
+	font-family:verdana, MS Sans Serif,Arial; 
+	font-size:11px; 
+	color:black;
+	width:85;}	
+	
+input.int2{
+	font-family:verdana, MS Sans Serif,Arial; 
+	font-size:11px; 
+	color:black;
+	width:150;}			
+
+select{
+	font-family:verdana, MS Sans Serif,Arial; 
+	font-size:9pt; 
+	color:black;
+	width:200;}
+
+select.sel{
+	font-family:verdana, MS Sans Serif,Arial; 
+	font-size:8pt; 
+	color:black;
+	width:115;}
+	
+	select.sel2{
+	font-family:verdana, MS Sans Serif,Arial; 
+	font-size:8px; 
+	color:black;
+	width:30;}
+	
+	
+select.sel5{
+	font-family:verdana, MS Sans Serif,Arial; 
+	font-size:11px; 
+	color:black;
+	width:70;}
+	
+	select.sel14{
+	font-family:verdana, MS Sans Serif,Arial; 
+	font-size:11px; 
+	color:black;
+	width:260;}	
+
+	
+select.sel1{
+	font-family:verdana, MS Sans Serif,Arial; 
+	font-size:11px; 
+	color:black;
+	width:148;}		
+
+select.contractsel{
+	font-family:verdana, MS Sans Serif,Arial; 
+	font-size:11px; 
+	color:black;
+	width:148;}		
+
+
+input.int3{
+	font-family:verdana, MS Sans Serif,Arial; 
+	font-size:11px; 
+	color:black;
+	width:30;}	
+input.name{
+	font-family:verdana, MS Sans Serif,Arial; 
+	font-size:11px; 
+	color:black;
+	width:200;}
+input.date{
+	font-family:verdana, MS Sans Serif,Arial; 
+	font-size:11px; 
+	color:black;
+	width:70;}
+input.int4{
+	font-family:verdana, MS Sans Serif,Arial; 
+	font-size:11px; 
+	color:black;
+	width:10;}	
+input.rate{
+	font-family:verdana, MS Sans Serif,Arial; 
+	font-size:11px; 
+	color:black;
+	width:40;}
+input.int11{
+	font-family:verdana, MS Sans Serif,Arial; 
+	font-size:11px; 
+	color:black;
+	width:100;}
+.subhead{
+	font-family:verdana, MS Sans Serif,Arial; 
+	font-size:10px; 
+	color:#000090;
+	font-weight:bold;}
+.mainMenu {  font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: bold; color: #FFFFFF; text-align: center}
+.sideMenu { font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #FFFFFF; text-align: center }
+.quicklink { font-family:verdana, "MS Sans Serif", Arial; font-size:12px; color:#000000; font-weight:bold; }
+.menuBar {  font-family: Arial, Helvetica, sans-serif; font-size: 8pt; color: #FFFFFF; background-color: #607BFD;}
+.sel6 { font-family:verdana, "MS Sans Serif", Arial; font-size:11px; color:black; }
+.head{
+	font-family:verdana, MS Sans Serif,Arial; 
+	font-size:9px; 
+	color:#000000;
+	font-weight:normal;}
+.plain{
+	font-family:verdana, MS Sans Serif,Arial; 
+	font-size:9px; 
+	color:black; 	
+	background:white; 
+	font-weight:normal;}
+.thead{
+	font-family:verdana, "MS Sans Serif", Arial; 
+	font-size:10px; 
+	color:black; 	
+	background-color:#dfdfdf; 
+	font-weight:normal;}
+
+.text{
+	font-family:verdana, MS Sans Serif,Arial; 
+	font-size:13px; 
+	color:black; 	
+	font-weight:normal;}
+
+.text1{
+	font-family:verdana, MS Sans Serif,Arial; 
+	font-size:13px; 
+	color:black; 	
+	font-weight:normal;}
+
+a.line
+{
+ text-decoration:none;
+}
+input.btn
+{
+	background-color:#2A5695;
+	color:white;
+	height:17;
+	font-size:15px;
+	border:normal;
+}
+.txt
+{
+	font-family:verdana, MS Sans Serif,Arial; 
+	font-size:20px; 
+	color:black; 	
+	background:#A0A0E6; 
+	font-weight:bold;
+	font-style:italics;
+ 
+}
+
+TEXTAREA
+{
+    BACKGROUND-COLOR: white;
+    BORDER-BOTTOM: black 4px solid;
+    BORDER-LEFT: black 2px solid;
+    BORDER-RIGHT: black 2px solid;
+    BORDER-TOP: black 4px solid;
+    COLOR: #15405e;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 20px
+}
+INPUT
+{
+    BORDER-BOTTOM: black 4px solid;
+    BORDER-LEFT: black 2px solid;
+    BORDER-RIGHT: black 2px solid;
+    BORDER-TOP: black 4px solid;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 10px;
+}
+
+INPUT.chkbox
+{
+    BORDER-BOTTOM: none;
+    BORDER-LEFT: none; 
+    BORDER-RIGHT: none; 
+    BORDER-TOP: none;
+}
+
+INPUT.rad
+{
+    BORDER-BOTTOM: none;
+    BORDER-LEFT: none; 
+    BORDER-RIGHT: none; 
+    BORDER-TOP: none;
+}
+
+TABLE.Borders
+{
+    BORDER-BOTTOM: black 1px solid;
+    BORDER-LEFT: black 1px solid;
+    BORDER-RIGHT: black 1px solid;
+    BORDER-TOP: black 1px solid
+}
+
+
+input.btnselected
+{
+        background-color:#2A5695;
+        color:red;
+        height:17;
+
+        font-size:10px;
+        border:thin;
+}
+
+input.btn
+{
+        background-color:#2A5695;
+        color:white;
+        height:17;
+        font-size:12px;
+        border:thin;
+}
